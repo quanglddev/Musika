@@ -34,5 +34,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>Want me?</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Want me?</string>
 </dict>
 </plist>
